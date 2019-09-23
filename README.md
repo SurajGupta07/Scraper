@@ -1,4 +1,4 @@
-# gray-scraper
+# scraper
 INSTAGRAM COMMENT SCRAPER FOR A POST
 
 ## RUNNING THE CODE : 
